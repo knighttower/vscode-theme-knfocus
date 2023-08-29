@@ -5,7 +5,8 @@
 -   Uses the similar colors for both themes to make switching between them easier.
 -   Uses colors that are easy on the eyes to avoid eye strain.
 
-![image](https://github.com/knighttower/vscode-theme-knfocus/assets/649334/db3c7c2f-8253-42b1-beb9-2b2a0c925760)
+![image](https://github.com/knighttower/vscode-theme-knfocus/assets/649334/28c30982-47d4-4876-a849-9ca9af09760c)
+
 
 
 **Enjoy!**
