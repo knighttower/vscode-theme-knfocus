@@ -1,0 +1,37 @@
+{
+    "name": "knfocus",
+    "displayName": "KnFocus",
+    "description": "Balance dark theme to focus on the code and not the noise.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.79.0"
+    },
+    "author": {
+        "name": "knighttower.io"
+    },
+    "icon": "images/Screenshot_2.png",
+    "keywords": [
+        "theme",
+        "dark",
+        "focus",
+        "balanced"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "pricing": "Free",
+    "contributes": {
+        "themes": [
+            {
+                "label": "KnFocus Default / knighttower.io",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kn-focus-color-theme.json"
+            },
+            {
+                "label": "KnFocus Alt / knighttower.io",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kn-focus-color-theme-alt.json"
+            }
+        ]
+    }
+}
