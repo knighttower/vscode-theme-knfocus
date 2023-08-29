@@ -8,6 +8,7 @@
         "url": "https://github.com/knighttower/vscode-theme-knfocus.git"
     },
     "version": "0.0.1",
+    "publisher": "knighttower.io",
     "engines": {
         "vscode": "^1.79.0"
     },
