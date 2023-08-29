@@ -2,7 +2,14 @@
     "name": "knfocus",
     "displayName": "KnFocus",
     "description": "Balance dark theme to focus on the code and not the noise.",
-    "version": "0.0.1",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/knighttower/vscode-theme-knfocus.git",
+        "version": "0.0.1",
+        "publisher": "knighttower",
+        "displayName": "knighttower"
+    },
     "engines": {
         "vscode": "^1.79.0"
     },
