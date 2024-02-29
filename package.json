@@ -7,7 +7,7 @@
         "type": "git",
         "url": "https://github.com/knighttower/vscode-theme-knfocus.git"
     },
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "Knighttower",
     "engines": {
         "vscode": "^1.79.0"
@@ -32,6 +32,11 @@
                 "label": "KnFocus Default / knighttower.io",
                 "uiTheme": "vs-dark",
                 "path": "./themes/kn-focus-color-theme.json"
+            },
+            {
+                "label": "KnFocus Base / knighttower.io",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kn-focus-color-theme-base.json"
             },
             {
                 "label": "KnFocus Alt / knighttower.io",
